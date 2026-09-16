@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ssurya1589/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ssurya1589/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ssurya1589/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/ssurya1589/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ssurya1589/leetcode/tree/master/0090-subsets-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ssurya1589/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ssurya1589/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ssurya1589/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ssurya1589/leetcode/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/ssurya1589/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ssurya1589/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ssurya1589/leetcode/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/ssurya1589/leetcode/tree/master/0491-non-decreasing-subsequences) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ssurya1589/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
